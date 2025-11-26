@@ -1,4 +1,4 @@
-# olá Eu Sou Alex Alves de Sousa ! 👋
+# Olá Eu Sou Alex Alves de Sousa ! 👋
 
 ## Eu sou um Cientista de Dados com conhecimento em Python, Pandas, Matplotlib, e Power bi
 
